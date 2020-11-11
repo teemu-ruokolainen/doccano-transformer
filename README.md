@@ -1,3 +1,5 @@
+# OBSOLETE REPO, DOESN'T NEED TO BE FORKED (CAN BE DELETED)
+
 # doccano-transformer
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9fe17d104b644a53a3fe189433d3c797)](https://app.codacy.com/gh/doccano/doccano-transformer?utm_source=github.com&utm_medium=referral&utm_content=doccano/doccano-transformer&utm_campaign=Badge_Grade_Dashboard)
